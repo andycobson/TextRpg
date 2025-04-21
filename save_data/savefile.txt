@@ -1,0 +1,4 @@
+heroAttack|4
+heroDefense|2
+heroHealth|2
+farmCrops|2025-04-21T03:38:33.694039500Z&null&4&false&TOMATO&true;2025-04-21T02:53:50.101353900Z&null&1&false&TURNIP&true
